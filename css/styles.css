@@ -1,8 +1,17 @@
 body {
-  font-family: franklin-gothic-urw;
+  font-family: arial;
 }
 p.centered {
+  font-size: 18px;
+}
+h1 {
   font-size: 35px;
+  text-transform: uppercase;
+  font-family: arial;
+}
+p {
+  font-size: 18px;
+  font-weight: lighter;
 }
 .container {
   width: 80%;
@@ -10,10 +19,17 @@ p.centered {
   margin-right: auto;
 }
 .intro {
+  font-size: 25px;
   clear: both;
   font-family: fantasy;
   text-align: center;
   font-weight: lighter;
+}
+.desc {
+  font-family: fantasy;
+  text-align: center;
+  font-size:18px;
+  margin-bottom: 50px;
 }
 .logo {
   float: left;
@@ -52,6 +68,7 @@ p.centered {
   font-style: italic;
 }
 .table {
+  margin-top: 20px;
   width: 95%;
   margin-left: auto;
   margin-right: auto;
