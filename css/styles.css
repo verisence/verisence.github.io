@@ -85,3 +85,9 @@ td {
   padding-top: 15px;
   padding-left: 30px;
 }
+#footer {
+  width: 100%;
+  color: #f5793d;
+  text-transform: capitalize;
+  text-align: center;
+}
