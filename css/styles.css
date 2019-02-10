@@ -10,6 +10,7 @@ h1 {
   text-transform: uppercase;
   font-family: arial;
   text-align: center;
+  font-weight: lighter;
 }
 p {
   font-size: 18px;
@@ -90,6 +91,7 @@ td {
 }
 .cols h3 {
   text-align: center;
+  text-transform: uppercase;
 }
 #footer {
   float: left;
