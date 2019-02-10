@@ -83,15 +83,20 @@ td {
   padding-top: 15px;
   padding-left: 30px;
 }
-/* .cols {
-  width: 47%;
+.cols {
+  width: 30%;
   float: left;
-  padding: 10px;
-  margin: 10px;
-} */
+  margin-right: 50px;
+}
+.cols h3 {
+  text-align: center;
+}
 #footer {
+  float: left;
   width: 100%;
   color: #f5793d;
   text-transform: capitalize;
   text-align: center;
+  height: 100px;
+  padding-top: 40px;
 }
