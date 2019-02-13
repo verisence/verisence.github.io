@@ -1,8 +1,8 @@
-# {Portfolio}
-#### {Portfolio Landing Page}, {Feb 10, 2019}
-#### By **{Phil Kipkemboi}**
+# Portfolio
+#### Portfolio Landing Page, Feb 10, 2019
+#### By **Phil Kipkemboi**
 ## Description
-{This is a web developer's webpage showcasing the background information, previous work, interests and inspirations.}
+This is a web developer's webpage showcasing the background information, previous work, interests and inspirations.
 ## Setup/Installation Requirements
 * A computer with internet access is required
 * Install a browser preferably Google Chrome
@@ -10,13 +10,13 @@
 * Paste it in the browser.
 * Press enter to access the site.
 ## Known Bugs
-{No known bugs at the moment.}
+No known bugs at the moment.
 ## Technologies Used
-{HTML and CSS}
+HTML and CSS
 ## Support and contact details
-{Feedback on suggestions, bugs and improvement are appreciated. Send an email to Kipkemboiphil@gmail.com}
+Feedback on suggestions, bugs and improvement are appreciated. Send an email to Kipkemboiphil@gmail.com
 ### License
-*{MIT License
+*MIT License
 
 Copyright (c) [2019] [Phil Kipkemboi]
 
@@ -36,5 +36,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
-Copyright (c) {2019} **{Phil Kipkemboi}**
+SOFTWARE.*
+Copyright (c) 2019 **Phil Kipkemboi**
