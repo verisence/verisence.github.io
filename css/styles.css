@@ -9,7 +9,7 @@ h1 {
   font-size: 35px;
   text-transform: uppercase;
   font-family: arial;
-  text-align: center;
+  text-align: left;
   font-weight: lighter;
 }
 p {
@@ -25,12 +25,12 @@ p {
   font-size: 25px;
   clear: both;
   font-family: fantasy;
-  text-align: center;
+  text-align: left;
   font-weight: lighter;
 }
 .desc {
   font-family: fantasy;
-  text-align: center;
+  text-align: left;
   font-size:18px;
   margin-bottom: 50px;
 }
